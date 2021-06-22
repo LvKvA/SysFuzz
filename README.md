@@ -6,13 +6,12 @@ The code on this repository is an extension of the BigFuzz repository: https://g
 The seeds can be found in the dataset folder, the java files for running the benchmarks in the CustomArray folder. 
 There is also a folder called benchmarks, which contains the original spark code of the benchmarks. 
 Our extension can be found in the following folder: \fuzz\src\main\java\edu\tud\cs\jqf\bigfuzzplus\systematicMutation
-
+  
 To reproduce our research run the tool with the following configuration:
 - SDK 8
 - Module: bigfuzz-dfcoverage
 - Main method class: BigFuzzPlusDriver 
-
-  The following program arguments can be given:
+- The following program arguments can be given:
 1. Benchmark driver class.
 2. Benchmark test method in driver class.
 3. Mutation testing approach. Should be set to SystematicMutation, other options were made by colleagues and are not supported for this repository.  
