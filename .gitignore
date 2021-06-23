@@ -15,7 +15,6 @@ fuzz/target/
 conf
 conf+cov
 fuzz-results/*
-output/*
 # Ignores crash reports & sample data
 2021*
 

@@ -25,7 +25,6 @@ Example for SalaryAnalysis benchmark P11:
   
 For an explanation of the parameters, read the accompanying research paper. 
 
-Author: 
-Lars van Koetsveld van Ankeren, Technical University Delft.
-Supervisor:
-Burcu Kulahcioglu Ozkan
+Author: Lars van Koetsveld van Ankeren  
+Supervisor: Burcu Kulahcioglu Ozkan  
+Technical University Delft.  

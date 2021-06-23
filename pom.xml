@@ -67,10 +67,6 @@
         <url>https://github.com/rohanpadhye/jqf/issues</url>
     </issueManagement>
 
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
-
     <modules>
         <module>fuzz</module>
         <module>instrument</module>
@@ -79,7 +75,6 @@
         <module>transformer</module>
         <module>customarray</module>
         <module>Benchmarks</module>
-        <module>faulty_benchmarks</module>
     </modules>
 
     <dependencyManagement>
