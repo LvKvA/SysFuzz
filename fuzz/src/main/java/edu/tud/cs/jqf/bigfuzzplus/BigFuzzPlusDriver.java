@@ -153,7 +153,8 @@ public class BigFuzzPlusDriver {
 			default:
 				file = "dataset/conf";
 		}
-		for (int i = 0; i < 5; i++) {
+
+		for (int i = 0; i < 20; i++) {
 			int atIteration = i + 1;
 			System.out.println("******** START OF PROGRAM ITERATION: " + atIteration + "**********************");
 
